@@ -2,87 +2,87 @@
   "videos": [
     {
       "id": 1,
-      "formacion": "Frontend",
-      "titulo": "¿Cuándo usar let, var y const?",
-      "capa": "./img/videos/FrontEnd/front1.webp",
-      "link": "https://www.youtube.com/watch?v=PztCEdIJITY"
+      "titulo": "cuando usar let,var y const",
+      "url": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "Categoria": "Front End",
+      "descripcion": "In the modern design world, Lorem Ipsum is the industry standard when placing dummy text onto an unfinished page, whether it's a newspaper, magazine, or advertisement."
     },
     {
       "id": 2,
-      "formacion": "Frontend",
-      "titulo": "¿Qué es JavaScript?",
-      "capa": "./img/videos/FrontEnd/front2.webp",
-      "link": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+      "titulo": "que es javascript",
+      "url": "https://www.youtube.com/watch?v=GJfOSoaXk4s&t=433s",
+      "Categoria": "Front End",
+      "decripcion": "javascript"
     },
     {
-      "id": 3,
-      "formacion": "Frontend",
-      "titulo": "Equipo Front End",
-      "capa": "./img/videos/FrontEnd/front3.webp",
-      "link": "https://www.youtube.com/watch?v=rpvrLaBQwgg"
+      "id":3,
+      "titulo": "Que son las softs skills",
+      "url": "https://www.youtube.com/watch?v=vhwspfvI52k&t=189s",
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
     },
     {
       "id": 4,
-      "formacion": "Frontend",
-      "titulo": "Como aplicar Dark Mode en tu proyecto",
-      "capa": "./img/videos/FrontEnd/front4.webp",
-      "link": "https://www.youtube.com/watch?v=MxlxFhzGRV8"
+      "titulo": "Spring Framework. ¿Qué es ? ",
+      "url": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "Categoria": "BackEnd",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
+      
     },
     {
       "id": 5,
-      "formacion": "Backend",
-      "titulo": "Spring Framework. ¿Qué es?",
-      "capa": "./img/videos/BackEnd/back1.webp",
-      "link": "https://www.youtube.com/watch?v=t-iqt1b2qqk"
+      "titulo": "Box Model y Box sizing",
+      "url": "https://www.youtube.com/watch?v=ts9qfCKamKg&t=5s",
+      "Categoria": "Front End",
+      "descripcion": "Box Model y Box sizing"
+      
     },
     {
       "id": 6,
-      "formacion": "Backend",
-      "titulo": "Simplificando tu código en Java: Conoce los enum",
-      "capa": "./img/videos/BackEnd/back2.webp",
-      "link": "https://www.youtube.com/watch?v=EoPvlE85XAQ"
+      "titulo": "Empresas que aprenden ",
+      "url": "https://www.youtube.com/watch?v=mwNfWRsDDWE",
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "**El aprendizaje organizacional promueve tanto la adaptación al cambio como el crecimiento de la empresa**."
+      
     },
     {
       "id": 7,
-      "formacion": "Backend",
-      "titulo": "La magia detrás de Java",
-      "capa": "./img/videos/BackEnd/back3.webp",
-      "link": "https://www.youtube.com/watch?v=GrEO8nZzyZM"
+      "titulo": "7 Soft Skills más deseadas por las empresas",
+      "url": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "Categoria": "Innovacion y Gestion",
+      "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? "
+      
     },
     {
       "id": 8,
-      "formacion": "Backend",
-      "titulo": "Backend",
-      "capa": "./img/videos/BackEnd/back4.webp",
-      "link": "https://www.youtube.com/watch?v=Z024LSCMqFk"
+      "titulo": "Simplificando tu código en Java: Conoce los enum ",
+      "url": "https://www.youtube.com/watch?v=EoPvlE85XAQ&t=68s",
+      "Categoria": "BackEnd",
+      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? "
+     
+    }
+
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoriaNombre": "Front End",
+      "categoriaTexto": "Formacion Front End Alura Latam",
+      "categoriaColor": "#6BD1FF"
     },
     {
-      "id": 9,
-      "formacion": "IyG",
-      "titulo": "¿Qué son las Soft Skills?",
-      "capa": "./img/videos/IyG/IG1.webp",
-      "link": "https://www.youtube.com/watch?v=vhwspfvI52k"
+      "categoriaNombre": "BackEnd",
+      "categoriaTexto": "Formacion Back End de Alura Latam",
+      "categoriaColor": "#ff2700",
+      "codigoSeguridad": "333333333",
+      "id": 2
     },
     {
-      "id": 10,
-      "formacion": "IyG",
-      "titulo": "7 Soft Skills más deseadas por las empresas",
-      "capa": "./img/videos/IyG/IG2.webp",
-      "link": "https://www.youtube.com/watch?v=YhR7Zp8NUzE"
-    },
-    {
-      "id": 11,
-      "formacion": "IyG",
-      "titulo": "¿Qué son las metodologias ágiles?",
-      "capa": "./img/videos/IyG/IG3.webp",
-      "link": "https://www.youtube.com/watch?v=6N3OkLCfK-0"
-    },
-    {
-      "id": 12,
-      "formacion": "IyG",
-      "titulo": "Scrum Master",
-      "capa": "./img/videos/IyG/IG4.webp",
-      "link": "https://www.youtube.com/watch?v=hamjv6G5shY"
+      "categoriaNombre": "Innovacion y Gestion",
+      "categoriaTexto": "Innovacion y Gestion",
+      "categoriaColor": "#ff00c0",
+      "codigoSeguridad": "1111111",
+      "id": 3
     }
   ]
 }
