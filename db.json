@@ -70,29 +70,8 @@
      
     }
 
-  ],
-  "categorias": [
-    {
-      "id": 1,
-      "categoriaNombre": "Front End",
-      "categoriaTexto": "Formacion Front End Alura Latam",
-      "categoriaColor": "#6BD1FF"
-    },
-    {
-      "categoriaNombre": "BackEnd",
-      "categoriaTexto": "Formacion Back End de Alura Latam",
-      "categoriaColor": "#ff2700",
-      "codigoSeguridad": "333333333",
-      "id": 2
-    },
-    {
-      "categoriaNombre": "Innovacion y Gestion",
-      "categoriaTexto": "Innovacion y Gestion",
-      "categoriaColor": "#ff00c0",
-      "codigoSeguridad": "1111111",
-      "id": 3
-    }
   ]
+      
 }
     
 
